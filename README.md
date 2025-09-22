@@ -44,14 +44,14 @@
 ---
 
 ## 📌 Proyectos destacados  
-- 🔗 **[formulario de registro](#)** → Recibe los datos y los envia a base de datos PostgresSQL
+- 🔗 **[formulario de registro](https://github.com/alegbcr/formulario-de-registro)** → Recibe los datos y los envia a base de datos PostgresSQL
 *(Los iré subiendo poco a poco a mi perfil)*
 
 ---
 
 ## 🌍 Conéctemos
 - 📧 **Email**: alexgbcr@proton.me  
-- 💼 **LinkedIn**: [linkedin.com/in/alexander-gonzález-blanco-56a474ba](#)  
+- 💼 **LinkedIn**: [linkedin.com/in/alexander-gonzález-blanco-56a474ba](linkedin.com/in/alexander-gonzález-blanco-56a474ba)  
 - 🐙 **GitHub**: [github.com/alegbcr](https://github.com/alegbcr)
 
 ---
